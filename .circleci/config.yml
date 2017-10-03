@@ -6,4 +6,4 @@ jobs:
        
      steps:
        - checkout
-       - run: test_Terminal.py
+       - run: python test_Terminal.py
