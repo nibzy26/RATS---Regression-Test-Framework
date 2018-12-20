@@ -8,7 +8,7 @@ Traffic both voice (T1/E1) and Data Packets Ethernet from customer sites get sen
 Tests that were Automated:
 
 1 - Software Upgradation on Remote Radio Sites
-2 - Generate Data Traffic on one of the ports and detect Bit Error Rates on The remote side
+2 - Generate Data Traffic on one of the ports and detect Bit Error Rates on The remote side.
 3 - Change modulation schemes from 64 QAM to 256 QAM
 4 - Adaptive Modulation test
 5 - Fade Margin Test
