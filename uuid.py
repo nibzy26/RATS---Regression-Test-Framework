@@ -8,7 +8,7 @@ If all you want is a unique ID, you should probably call uuid1() or uuid4().
 Note that uuid1() may compromise privacy since it creates a UUID containing
 the computer's network address.  uuid4() creates a random UUID.
 
-Typical usage:
+TTTTypical usage:
 
     >>> import uuid
 
